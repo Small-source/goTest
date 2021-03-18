@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>长沙辰才一对一志愿填报指导</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/teacher.css">
+</head>
+<body>
+    <div class="publicHead"></div>
+    <div class="banner">
+        <img src="imgs/teacher/banner.jpeg" alt="">
+    </div>
+    <div class="part1">
+        <h5 class="header"><p>师资力量</p></h5>
+        <div class="inner">
+            <ul>
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+
+
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+
+
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="publicFoot"></div>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/public.js"></script>
+</html>

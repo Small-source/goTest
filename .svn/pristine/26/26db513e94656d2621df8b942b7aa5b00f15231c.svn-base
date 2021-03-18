@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>长沙辰才一对一志愿填报指导</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/teacher.css">
+</head>
+<body>
+    <div class="publicHead"></div>
+    <div class="banner">
+        <img src="imgs/teacher/banner.jpeg" alt="">
+    </div>
+    <div class="part1">
+        <h5 class="header"><p>师资力量</p></h5>
+        <div class="inner">
+            <ul>
+                <li>
+                    <img src="imgs/teacher/wuxin.png" alt="">
+                    <p class="title">邬歆</p>
+                    <div class="detail"><p>辰才升学规划研究院副院长</p></div>
+                    <div class="detailBox">
+                        <p>清华大学硕士</p>
+                        <p>辰才教育高级规划师</p>
+                        <p>曾参与国家自然科学基金项目</p>
+                        <p>发表国家顶级期刊SCI论文2篇</p>
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/hexiaojun.png" alt="">
+                    <p class="title">贺晓军</p>
+                    <div class="detail"><p>高考资深研究员</p></div>
+                    <div class="detailBox">
+                        中国科学院大学硕士 <br>
+                        辰才教育高级规划师 <br>
+                        国际生涯规划发展师 <br>
+                        教育部学规中心新高考课题成员
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/baijianwei.png" alt="">
+                    <p class="title">白建卫</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        北京大学心理学学士 <br>
+                        辰才升学规划研究院教研主管<br>
+                        擅长生涯规划、学习动机探索等 <br>
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/huangbin.png" alt="">
+                    <p class="title">黄彬</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        中国科学院大学硕士 <br>
+                        生涯测评系统开发者 <br>
+                        五年志愿填报工作经验 <br>
+                        一对一指导287人进入理想大学 <br>
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/zhangshuya.png" alt="">
+                    <p class="title">张舒雅</p>
+                    <div class="detail"><p>辰才教育规划部主管</p></div>
+                    <div class="detailBox">
+                        NCDA国际生涯规划师 <br>
+                        国家二级心理咨询师 <br>
+                        ACD青少年生涯导师 <br>
+                        教育部学规中心新高考课题组成员
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/longhong.png" alt="">
+                    <p class="title">龙红</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        中国科学院大学心理学硕士 <br>
+                        曾任职于新东方学业负责人 <br>
+                        曾任职于新东方学业负责人 <br>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/lanying.png" alt="">
+                    <p class="title">兰瑛</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        国家高级人力资源管理师 <br>
+                        国家二级心理咨询师 <br>
+                        NCDA国际生涯规划师
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/penglu.png" alt="">
+                    <p class="title">彭璐</p>
+                    <div class="tag"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        天津师范大学硕士 <br>
+                        ACD生涯规划师 <br>
+                        高级艺考规划师 <br>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/xiangxinping.png" alt="">
+                    <p class="title">向心萍</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        生涯规划师 <br>
+                        高级教师资格 <br>
+                        擅长学业规划、志愿填报
+                    </div>
+                </li>
+                <li>
+                    <img src="imgs/teacher/huanghuiqun.png" alt="">
+                    <p class="title">黄辉群</p>
+                    <div class="detail"><p>辰才教育高级规划师</p></div>
+                    <div class="detailBox">
+                        教育部学规中心新高考课题组成员 <br>
+                        ACD生涯规划师 <br>
+                        高级艺考规划师 <br>
+                    </div>
+                </li>
+
+                <li>
+                    <img src="imgs/teacher/shenshiyi.png" alt="">
+                    <p class="title">申适宜</p>
+                    <div class="detail"><p>辰才教育升学规划师</p></div>
+                    <div class="detailBox">
+                        教育部学规中心新高考考题成员 <br>
+                        企业人力资源规划师 <br>
+                        擅长学业规划、生涯规划
+                    </div>
+                </li>
+<!--                 <li>
+                    <img src="imgs/teacher/lihaiwu.png" alt="">
+                    <p class="title">李海梧</p>
+                    <div class="detail">辰才教育高级规划师</div>
+                    <div class="detailBox">
+                        辰才教育高级规划师<br>
+                        生涯规划师 <br>
+                        擅长学业规划、志愿填报
+                    </div>
+                </li> -->
+
+                <li>
+                    <img src="imgs/teacher/zhoujiujian.png" alt="">
+                    <p class="title">周九简</p>
+                    <div class="detail"><p>三级心理咨询师</p></div>
+                    <div class="detailBox">
+                        具有高级教师资格证 <br>
+                        三级心理咨询师证 <br>
+                        教育部学规中心新高考课题组成员
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="publicFoot"></div>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/public.js"></script>
+</html>

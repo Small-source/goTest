@@ -1,0 +1,165 @@
+.Aboutus {
+    background-color: #fff;
+}
+.banner img{
+    display: block;
+    width: 100%;
+}
+.inner {
+    width: 1200px;
+    margin: 0 auto;
+}
+.img_box {
+    padding-bottom: 60px;
+}
+ .bottom{
+     height: 290px;
+     background:url("../imgs/aboutus/lijilianxi.png") center center;
+ }
+.title2{
+    height: 180px;
+}
+.liji{
+    width: 240px;
+    height: 62px;
+    border-radius: 31px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 62px;
+    font-size: 22px;
+    /*background: #EB3634;*/
+    color:#fff;
+    cursor: pointer;
+    position: relative;
+    /*box-shadow: 1px  5px  5px #BD0617;*/
+}
+
+
+ .about_fixed_box {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     height: 64px;
+     box-sizing: border-box;
+     padding: 12px 0;
+     z-index: 10;
+     background-color: #1B1A1A;
+ }
+ .about_fixed_box .btn_close {
+     position: absolute;
+     width: 24px;
+     height: 24px;
+     background-color: #fff;
+     line-height: 24px;
+     color: #333;
+     text-align: center;
+     border-radius: 12px;
+     right: 20px;
+     top: 19px;
+     cursor: pointer;
+ }
+ .about_fixed_box .select_box {
+     position: relative;
+ }
+ .about_fixed_box .select_box img {
+     position: absolute;
+     right: 15px;
+     top: 15px;
+     width: 16px;
+     height: 11px;
+ }
+ .about_fixed_box .select_box .img_active {
+     transform: rotate(-180deg);
+     transition: all .5s;
+ }
+ .about_fixed_box .select_box .option_box {
+     position: absolute;
+     bottom: 40px;
+     left: 0px;
+     border: 1px solid #dedede;
+     border-radius: 10px;
+     background-color: #fff;
+     width: 174px;
+     padding: 5px 0px;
+ }
+ .about_fixed_box .select_box .option_box p {
+     line-height: 30px;
+     cursor: pointer;
+     padding-left: 10px;
+     color: #333;
+ }
+ .about_fixed_box .select_box .option_box p:hover {
+     color: #F2473D;
+ }
+ .about_fixed_box ul {
+     display: flex;
+     float: left;
+ }
+ .about_fixed_box ul li {
+     margin-right: 15px;
+     display: flex;
+     font-size: 14px;
+     color: #333;
+ }
+ .about_fixed_box ul li p {
+     line-height: 40px;
+     color: #fff;
+ }
+ .about_fixed_box ul li input,
+ .about_fixed_box ul li textarea,
+ .about_fixed_box ul li select {
+     border: 1px solid #D2D3D3;
+     box-sizing: border-box;
+     padding: 0px 10px;
+     outline:none
+ }
+ .about_fixed_box ul li input,
+ .about_fixed_box ul li select {
+     width: 174px;
+     height: 40px;
+     line-height: 40px;
+     border-radius: 5px;
+ }
+ .about_fixed_box ul li textarea {
+     height: 40px;
+     line-height: 40px;
+     width: 270px;
+     border-radius: 5px;
+ }
+ .about_fixed_box .btn {
+     float: left;
+     width: 125px;
+     height: 40px;
+     background-color: #E7252E;
+     text-align: center;
+     line-height: 40px;
+     border-radius: 5px;
+     color: #fff;
+     cursor: pointer;
+ }
+ .jiameng{
+     width: 1200px;
+     margin: 0 auto;
+ }
+ input::-webkit-outer-spin-button,
+ input::-webkit-inner-spin-button {
+     -webkit-appearance: none;
+ }
+ input[type="number"]{
+     -moz-appearance: textfield;
+ }
+ .about_fixed_box{
+     display: none
+ }
+.swiper-container{
+    margin: 55px auto 0 !important;
+}
+ .swiper-slide{
+     width: 80%;
+ }
+.sw{
+    width: 855px;
+    height: 330px;
+    margin: 0 auto;
+}

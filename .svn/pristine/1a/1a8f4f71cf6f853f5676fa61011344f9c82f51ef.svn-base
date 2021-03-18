@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title>长沙辰才学业规划服务</title>
+    <meta name="keywords" content="学马,长沙辰才,学业规划,学习动力,动力,学习计划,计划,规划,学习目标,目标,状态,态度,复盘,影响学习的因素,制定目标,行动计划,监督执行,结果复盘,闭环管理,个性化一对一">
+    <meta name="description" content="针对于学生在学习过程中存在的学习动力不足、学习状态不佳、学习目标与规划不明确等问题，长沙辰才推出学业规划服务，帮助学生有效提升成绩。">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/xueyeguihua.css">
+    <link rel="stylesheet" href="css/duoyuanshengxue.css">
+</head>
+<body>
+    <div class="publicHead"></div>
+    <div class="xueyeguihua">
+        <div class="banner" style="height:auto">
+            <img src="./imgs/xueyeguihua/banner.png" alt="研学营">
+        </div>
+        <div class="service_object">
+            <p class="big_title">服务对象</p>
+            <div class="inner">
+                <p><span></span>高中一、二、三年级学生，学习动力不足、在学习计划的制定和执行环节需要优化</p>
+                <img src="./imgs/xueyeguihua/icon_fuwuduixiang.png" alt="">
+            </div>
+        </div>
+        <div class="service_content">
+            <p class="big_title">服务内容</p>
+            <ul class="inner lis">
+                <li class="title_box">
+                    <p>序号</p>
+                    <p>内容模块</p>
+                    <p>服务内容</p>
+                </li>
+                <li>
+                    <p>1</p>
+                    <p>制定目标</p>
+                    <p>不同梯度的大学目标清单根据大学目标制定月目标</p>
+                </li>
+                <li>
+                    <p>2</p>
+                    <p>行动计划</p>
+                    <p>根据目标清单制定周计划和日计划</p>
+                </li>
+                <li>
+                    <p>3</p>
+                    <p>监督执行</p>
+                    <p>监督学生计划的执行与完成情况</p>
+                </li>
+                <li>
+                    <p>4</p>
+                    <p>结果复盘</p>
+                    <p>规划师对学生的计划执行情况进行反馈，包括学生自我评估、规划师评估以及总结与改进</p>
+                </li>
+            </ul>
+        </div>
+        <div class="service_features">
+            <p class="big_title">服务特色</p>
+            <ul class="inner lis">
+                <li>
+                    <img src="./imgs/xueyeguihua/icon_fengbi.png" alt="">
+                    <p class="title">全程动态闭环管理</p>
+                    <p class="detail">目标、计划、行动、复盘四位一体，根据学生实际情况适时调整，形成学业管理的全程动态闭环</p>
+                </li>
+                <li>
+                    <img src="./imgs/xueyeguihua/icon-gejieduan.png" alt="">
+                    <p class="title">感悟科研，探索前沿</p>
+                    <p class="detail">将管理学的SMART原则和PDCA循环融入学业管理过程，稳扎稳打、步步为营的完成各阶段的任务</p>
+                </li>
+                <li>
+                    <img src="./imgs/xueyeguihua/bg_mingshi.png" alt="">
+                    <p class="title">权威签章，助力升学</p>
+                    <p class="detail">为学生配备专属规划师，进行周期性的线下一对一沟通，有效解决实际问题</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="part2" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">服务流程</div>
+            <table>
+                <tr>
+                    <th colspan="3">案例信息收集清单</th>
+                </tr>
+
+                <tr>
+                    <td>服务阶段</td>
+                    <td>重点信息及表格</td>
+                    <td>✓或✕（表格作为附件）</td>
+                </tr>
+                <tr>
+                    <td rowspan="5">收集信息</td>
+                    <td>学习力测评报告</td>
+                    <td>✕</td>
+                </tr>
+                <tr>
+                    <td>信息采集-家长</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td>信息采集-学生（特质、学习状态、考试成绩、时间）</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td>学科优劣势</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td>理想大学专业等</td>
+                    <td>✕</td>
+                </tr>
+                <tr>
+                    <td>评估分析</td>
+                    <td>学习问题评估</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">目标计划</td>
+                    <td>大学目标拆分</td>
+                    <td>✕</td>
+                </tr>
+                <tr>
+                    <td>月考目标计划</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">执行反馈</td>
+                    <td>干预措施及效果</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td>打卡记录</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">阶段总结</td>
+                    <td>考试结果变化</td>
+                    <td>✓</td>
+                </tr>
+                <tr>
+                    <td>学习过程总结</td>
+                    <td>✓</td>
+                </tr>
+            </table>
+            <div class="xueyeguihuaP">
+                注：<br>
+                1、清单中的信息，请填写在案例收集表中，如果有相关表格、打卡图片等，可以和本文档打包提交<br>
+                2、提交方式：盯盘-辰才-5学习力咨询资料-案例收集-规划师名字 <br>
+                3、提交截止时间：2021年1月10日周日12点 <br>
+                4、本文档的文件名格式：案例收集-规划师姓名-收集日期 <br>
+            </div>
+        </div>
+    </div>
+    <div class="part2 part3" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">案例分析表</div>
+            <table>
+                <tr>
+                    <th colspan="4">案例分析表</th>
+                </tr>
+                <tr>
+                    <td>学生</td>
+                    <td>洪*</td>
+                    <td>年级</td>
+                    <td>高二</td>
+                </tr>
+                <tr>
+                    <td>服务开始时间</td>
+                    <td>2020.8.29</td>
+                    <td>是否住校</td>
+                    <td>是</td>
+                </tr>
+                <tr>
+                    <td>学生来源</td>
+                    <td colspan="3">
+                        ☑C端用户    ☐学校服务项目
+                    </td>
+                </tr>
+                <tr>
+                    <td>服务总次数</td>
+                    <td>10次</td>
+                    <td>规划师</td>
+                    <td>白**</td>
+                </tr>
+                <tr>
+                    <td>已完成次数</td>
+                    <td>10次</td>
+                    <td>学管师</td>
+                    <td>向**</td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="background:#E9EBF5;">案例分析表</td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="padding: 40px;">
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            【包括①学生性格特点、爱好，学习潜力、动力、效力的基础信息。②家长信息：特点、诉求。③如果有基础信息记录表格，可以把表格作为附件呈现在最后】
+                        </div>
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            1、学习力测评结果的要点：<br>
+                            能力：逻辑推理能力、数学能力、语言能力强；表象能力和思维转换能力较差。<br>
+                            动力：学习认知一般，情感及行为意向较好。<br>
+                            效力：学习无计划，不会预先准备。灵活变通性强，喜欢创新。<br>
+                        </div>
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            2、学生个人特点及诉求：<br>
+                            学生住校，每天的时间安排比较紧张，学生有自己的学习节奏，一般把自己最擅长最喜欢的英语排在最高优先级，不太擅长的学科优先级靠后。对于需要调整的学习方法，比如养成预习习惯、重点学科的笔记整理、错题的分析等，需要跟学生仔细商量执行的细节，包括时间安排、如何执行等。学生能按照自己的节奏逐步调整，提高自己的学习投入度，让自己在各个科目上的任务安排和效率更高。
+                        </div>
+                        <div class="xueyeguihuaP">
+                            3、家长特点及诉求 <br>
+                            家长不干预，放手学生自己进行课程。经过2020年上半年的疫情之后，学生学习状态不好，9月份进入高二，选课后重新分班，学习态度、信心、情绪都处于低谷，和老师关系也处于适应和调整过程中。学生急需外部干预，把精力专注在学习上，重建学习信心，形成良好的学习习惯，从低谷中走出来。
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="part2" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">学习问题评估表</div>
+            <table>
+                <tr style="display: none">
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="width: 120px">主要维度</td>
+                    <td>具体问题</td>
+                    <td style="width: 120px">重点问题</td>
+                    <td style="width: 400px">原因分析</td>
+                </tr>
+                <tr>
+                    <td rowspan="3">学习动机</td>
+                    <td>没有明确理想大学和动力</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>不喜欢学习</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>对学好没信心</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td rowspan="3">学习管理</td>
+                    <td>没有目标、目标不清楚、设置不合理</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>不会合理规划时间</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>不会制定合理的行动计划并有效落实</td>
+                    <td>✓</td>
+                    <td style="padding: 20px">
+                        <div class="xueyeguihuaP">
+                            在辅导之前，学生没有制定计划的习惯，也不喜欢制定计划。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="8">学习过程</td>
+                    <td>不做预习或不会预习</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>听讲、写作业注意力不集中</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>不记笔记、不会记笔记</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>记忆力差，记不住东西</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>解决问题的意愿和执行力不强</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>基础知识不牢</td>
+                    <td>✓</td>
+                    <td style="padding: 20px">
+                        <div class="xueyeguihuaP">
+                            尤其是数学课，基础知识特别薄弱，课前没有预习的习惯，上课注意力不集中，课后的练习也没有保质保量完成。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>总结归纳能力差，不会梳理知识</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>不会利用和归纳错题</td>
+                    <td>✓</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td rowspan="4">影响因素</td>
+                    <td>考试焦虑、学习压力大</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>存在同学相处问题</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>老师带来的困扰</td>
+                    <td>✓</td>
+                    <td style="padding: 20px">
+                        <div class="xueyeguihuaP">
+                            高二上期入学和班主任的关系不融洽，家长给孩子请了心理健康辅导老师，每周沟通30分钟，通过妈妈在中间协调，目前与班主任关系回暖。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>家人带来的困扰</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>弱势学科</td>
+                    <td>数学</td>
+                    <td></td>
+                    <td>基础差，没有学习方法</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="part2 part3" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">辅导目标和方案</div>
+            <table>
+                <tr style="display:none">
+                    <td></td>
+                </tr>
+                <tr>
+                    <td colspan="2">辅导目标和方案</td>
+                </tr>
+                <tr>
+                    <td style="padding: 30px" colspan="2">
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            辅导目标：学习状态回归正轨，排名目标班级第一，年级前十。掌握学习方法和策略。
+                        </div>
+                        <div class="xueyeguihuaP" >
+                            整体方案：先指导学生选定突破学科——数学，做出一些小的尝试，包括养成预习的习惯，明确听课目标，提高课堂效率。进行数学每日复盘，巩固基础知识。积累数学错题，查漏补缺。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background:#E9EBF5" colspan="2">服务干预过程</td>
+                </tr>
+                <tr>
+                    <td colspan="4" style="padding: 30px;" colspan="2">
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            1、时间：课次2 <br>
+                            针对问题：时间管理 <br>
+                            干预方式：日记录 <br>
+                            执行效果：前期体会不到价值，执行不到位，后期完成得越来越好，记录详细，完成率高。而且到后期也能体会到做记录、做计划的价值。
+                        </div>
+                        <div class="xueyeguihuaP" style="margin-bottom: 40px">
+                            2、时间：课次3 <br>
+                            针对问题：基础知识薄弱 <br>
+                            干预方式：数学每日复盘 <br>
+                            执行效果：该项任务一直坚持执行，学生有很明显的感触，对学习数学有了一些感觉，掌握了部分学习策略，而且有助于巩固基础知识。
+                        </div>
+                        <div class="xueyeguihuaP">
+                            3、时间：课次4 <br>
+                            针对问题：基础知识薄弱 <br>
+                            干预方式：数学错题本 <br>
+                            执行效果：前期一直执行的不好，到第8次课才开始执行，现在效果不明显。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background:#E9EBF5" colspan="2">服务情况总结</td>
+                </tr>
+                <tr>
+                    <td>核心问题</td>
+                    <td>学习不主动</td>
+                </tr>
+                <tr>
+                    <td>有效措施及原因</td>
+                    <td>通过任务布置，过程干预，进而养成良好的学习习惯</td>
+                </tr>
+                <tr>
+                    <td>无效措施及原因</td>
+                    <td>/</td>
+                </tr>
+                <tr>
+                    <td style="background:#E9EBF5" colspan="2">家长及学生反馈</td>
+                </tr>
+                <tr>
+                    <td style="padding: 20px 40px" colspan="2">
+                        <div class="xueyeguihuaP">
+                            学生反馈大部分任务都有价值，对学习有帮助。<br>
+                            家长也反映学生状态变好，很认可规划老师。
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background:#E9EBF5" colspan="2">该案例服务中的疑难及个人思考</td>
+                </tr>
+                <tr>
+                    <td style="padding: 20px 40px" colspan="2">
+                        <div class="xueyeguihuaP">
+                            1.前面几次课建立信任非常重要，如果没有信任，后面的课根本没有办法执行。 <br>
+                            2.学生低迷、迷茫，不知所措的时候，不要放弃学生，给学生方向。 <br>
+                            3.定时严格监督非常重要 <br>
+                            4.规划过程详细记录
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="part2" style="padding-bottom: 80px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">洪*高二上学期成绩表</div>
+            <img src="imgs/xueyeguihua/chengjifenxi.png" alt="">
+        </div>
+    </div>
+    <div class="part2 part3" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">学习力服务案例模板</div>
+            <table>
+                <tr style="display:none">
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>学生信息</td>
+                </tr>
+                <tr>
+                    <td style="padding: 30px" colspan="2">
+                        <div class="xueyeguihuaP">
+                            姓名：王**<br>
+                            性别：女<br>
+                            年级：高二<br>
+                            学科学习情况：英语相对最好，数学一直薄弱<br>
+                            学习力基本情况：潜能较好，信息加工能力低于常模但工作记忆能力超常！学习动力明显不足，学习效力也很一般！
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <table class="xueyeguihuaTable">
+                <tr>
+                    <td>服务时间</td>
+                    <td>5月31日</td>
+                    <td>6月14日</td>
+                    <td>7月11日</td>
+                    <td>8月15日</td>
+                    <td>9月13日</td>
+                </tr>
+                <tr>
+                    <td>规划内容</td>
+                    <td>规划内容</td>
+                    <td>思维导图</td>
+                    <td>注意力训练</td>
+                    <td>自我暗示</td>
+                    <td>时间管理</td>
+                </tr>
+                <tr>
+                    <td>考试节点</td>
+                    <td>5月月考</td>
+                    <td>7月月考</td>
+                    <td>9月月考</td>
+                    <td>10月月考</td>
+                    <td>11月期中联考</td>
+                </tr>
+                <tr>
+                    <td>班级排名</td>
+                    <td>32</td>
+                    <td>13</td>
+                    <td>5</td>
+                    <td>5</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>年级排名</td>
+                    <td>620</td>
+                    <td>578</td>
+                    <td>479</td>
+                    <td>445</td>
+                    <td>95</td>
+                </tr>
+                <tr>
+                    <td>历史选科年级排名</td>
+                    <td>—</td>
+                    <td>—</td>
+                    <td>105</td>
+                    <td>78</td>
+                    <td>12</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="part2" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 30px;margin-bottom: 30px">学生关键问题</div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                <span style="font-weight: bold">为了什么进行规划和指导？</span><br>
+                答：妈妈是转介绍而来，孩子之前的初中同班同学在我们学校规划后成绩有显著提升！ <br>
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                <span style="font-weight: bold">在规划过程中学生最大的问题是什么？</span><br>
+                答：孩子完全是为了妈妈才被迫学习，不喜欢也不太认可学习，注意力特别不容易集中！
+            </div>
+            <img src="imgs/xueyeguihua/guanjianwenti.png" alt="">
+        </div>
+    </div>
+    <div class="part2 part3 part5" style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 0;margin-bottom: 10px">辅导后结果</div>
+            <div style="text-align: center;margin-bottom: 30px">学生课程前后对比（学习力、成绩、学习态度等）</div>
+            <img src="imgs/xueyeguihua/guihuaqianhou.png" alt="">
+        </div>
+    </div>
+    <div class="part2 partBottom"  style="padding-bottom: 50px">
+        <div class="part">
+            <div class="pubTitle" style="padding: 60px 0 0;margin-bottom: 10px">课后分析</div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                <span style="font-weight: bold; display:block;margin-bottom: 10px;font-size: 18px">咨询师是如何根据学生的具体情况进行精准化的规划和指导的</span>
+                答：因疫情原因第一次见到孩子是带着口罩，圆圆的大眼睛扑闪扑闪特别可爱，但是第一次见面到最后孩子才摘下口罩，期间谈话发现孩子非常在意自己的外在形象，觉得自己太矮太胖，羡慕班上高挑的白皙的女生，期间因为天气原因室内昏暗，我起身开灯但是孩子却希望把灯关了，说不喜欢太亮的环境，另外观察发现孩子注意力极易受影响（窗外的和门口动静），沟通期间孩子眼神也会有闪烁和拘谨，谈话也有所保留，但是对于学习的态度孩子很坦诚，直接告知不喜欢学习，是因为妈妈才被迫学习，自己骨子里其实特别不喜欢被管制，崇尚自由！孩子也透露初中和妈妈关系到达冰点，妈妈曾经因为一次发现孩子在发呆没做作业就一怒之下直接将书包从高楼摔下被物业捡到送上来，孩子好似轻松的描述到最后却是眼含泪花（之后的沟通孩子也提及过，孩子其实很在意也是真的被吓到了）。
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                通过第一次的见面沟通，我发现孩子骨子里其实很不自信，所以第一次见面我就会不经意的赞美她，比如我自己没有的却一直羡慕的圆圆的大眼睛，还看了她羡慕的那位高挑的好朋友照片并告诉她我更喜欢看她的样子，还有她惊人的工作记忆能力，还有她写得字超级超级娟秀，另外我也告诉她她声音很好听，语言沟通能力很强，喜欢听她描述问题，哈哈！
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                后续的规划思路就是，抓孩子最薄弱的科目数学养成坚持的好习惯，告诉她其实她具备学好数学的各项潜能，分享了科学错题本的方法，并和孩子商量好坚持一天一道数学错题的整理（主要是养成错题思维，研究错题，弄懂弄透，举一反三），每天拍照睡前发我微信！经过两个月的积累孩子数学开始慢慢进步，最后一次期中联考数学考了班上第一，但是在这之前孩子从小数学都是年级倒数！
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                另外针对孩子亲子问题，提出针对每日学科所学用思维导图和妈妈分享，妈妈再反馈我效果和所用时间，最开始孩子是完成任务式甚至有点抵触，后来单独和妈妈进行深入沟通传授妈妈说话技巧和方法，孩子慢慢开始享受这样的分享，从最开始的几分钟到最后的随便就是半小时，妈妈最后甚至愿意主动提出付费听分享，孩子更是收获了满满的成就感！妈妈也是通过孩子每日的思维导图了解到孩子每日学习的繁重和不易，彼此之间的关系就这样随着每天睡前孩子的倾情分享妈妈的用心倾听中越来越和谐和美好！
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                针对孩子注意力不集中问题，在第三次规划后开始增加注意力舒尔特方格打卡，并告知孩子能平均到10S成绩就可以到年级前10%！孩子从最开始的28S，一周周一月月每天坚持32组打卡，慢慢的刷新纪录，最后稳定到10S!期间，进行了一个月注意力打卡训练后，妈妈悄悄发信息告诉我，以前每次经过孩子房门口孩子总是会第一时间发现她，而且孩子每次都是斜着身子一看就是没在学习的样子，但是现在不一样了，每次经过房门孩子都察觉不到她了，而且都是趴着埋头在认真学习！妈妈特别欣慰和开心！另外没有规划之前孩子几乎每晚十点准点就开始合书，洗澡洗头耗很久的时间，最后再睡觉，但是现在经常11点多还在书房学习！
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                第五次规划后，我和往常一样布置打卡作业，孩子居然哭了，当时妈妈也在场，我们两都很惊讶，但是哽咽了一会孩子哭着说：兰老师，我想有更多的自主学习时间，我还有很多很多东西要背要记，我英语要背，历史也是，还有地理。。。。。。
+                哈哈，我听了特别特别欣慰，我感受到孩子强烈的迫切的自主学习意识了，我说：**，你放心，从今往后你自己安排自己，兰老师特别开心哟，当你说出自主学习这四个字我内心其实特别欣慰，因为我真的知道以后我不需要做什么了，你完全可以自己规划好自己了！
+            </div>
+            <div class="xueyeguihuaP" style="margin-bottom: 30px">
+                PS：孩子每一次成绩的进步，规划面谈时我都有准备一份小小的礼物（笔、本子、梳子等），孩子曾经开玩笑说:兰老师，那我以后会一直进步，你会破产去！哈哈！
+            </div>
+        </div>
+
+    </div>
+    <div class="publicFoot"></div>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/public.js"></script>
+<script>
+    '✓✕'
+</script>
+</html>

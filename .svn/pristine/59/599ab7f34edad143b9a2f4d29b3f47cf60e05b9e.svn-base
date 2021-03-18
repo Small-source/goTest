@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <header>
+          <div class="headerboxTop">
+              <div class="headerInner">
+                    <div class="headerLeft">
+                        <a href="index.html">
+                            <img src="imgs/logo/logo.png" alt="" width="" >
+                        </a>
+                    </div>
+                    <div class="headerRight">
+                        <span class="span1">咨询热线：</span><br>
+                        <span class="span2">400-925-909</span>
+                    </div>
+              </div>
+          </div>
+         <div class="headerboxBottom">
+            <div class="headerInner">
+                <ul class="headerList">
+                      <li class="lis">
+                          <a href="index.html" class="bigLink target_link"><span>首页</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="xuankezhidao.html" class="bigLink target_link"><span>新高考选科</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="xueyeguihua.html" class="bigLink target_link"><span>学业规划</span></a>
+                      </li>
+                      <li class="lis">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 <a href="duoyuanshengxue.html" class="bigLink target_link"><span>多元升学</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="gaozhidanzhao.html" class="bigLink target_link"><span>高职单招</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="zhiyuantianbao.html" class="bigLink target_link"><span>志愿填报</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="yishuguihua.html" class="bigLink target_link"><span>艺术规划</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="teacher.html" class="bigLink target_link"><span>师资力量</span></a>
+                      </li>
+                      <li class="lis">
+                          <a href="about.html" class="bigLink target_link"><span>关于我们</span></a>
+                      </li>
+                </ul>
+            </div>
+         </div>
+<!--        <div class="headerbox">-->
+<!--            <div class="headInner">-->
+<!--                <div class="headeTop">-->
+<!--                    <h1 class="logos">-->
+<!--                        <a href="index.html" title="辰才">-->
+<!--                            <span>辰才教育</span>-->
+<!--                            <img src="imgs/logo/logo.png" alt="" width="" >-->
+<!--                        </a>-->
+<!--                    </h1>-->
+<!--                </div>-->
+<!--                  <div class="headerBottom">-->
+<!--                      <ul class="lis-nav">-->
+<!--                          <li class="lis">-->
+<!--                              <a href="index.html" class="bigLink target_link"><span>首页</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="xuankezhidao.html" class="bigLink target_link"><span>新高考选科</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="xueyeguihua.html" class="bigLink target_link"><span>学业规划</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <a href="duoyuanshengxue.html" class="bigLink target_link"><span>多元升学</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="gaozhidanzhao.html" class="bigLink target_link"><span>高职单招</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="zhiyuantianbao.html" class="bigLink target_link"><span>志愿填报</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="yishuguihua.html" class="bigLink target_link"><span>艺术规划</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="teacher.html" class="bigLink target_link"><span>师资力量</span></a>-->
+<!--                          </li>-->
+<!--                          <li class="lis">-->
+<!--                              <a href="about.html" class="bigLink target_link"><span>关于我们</span></a>-->
+<!--                          </li>-->
+<!--                      </ul>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--        </div>-->
+    </header>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/public.js"></script>
+<script>
+    var before = $('body,html').scrollTop()
+    $(window).on('scroll',function () {
+        var after = $('body,html').scrollTop()
+        if(after<76){
+            $('header').show()
+            return ;
+        }
+        if(after>before){
+            $('header').hide()
+        }else{
+            $('header').show()
+        }
+        before = after;
+    })
+</script>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="辰才,辰才官网,中学生生涯规划,新高考,升学规划,辰才发展历程,辰才覆盖省份,辰才服务团队,辰才代理商,辰才辅导学生数量,产品与系统支持,师资培训,师资认证,课程支持,辰才用户,辰才学术背景,辰才合作伙伴">
+    <meta name="description" content="辰才教育：中学生生涯规划一站式私人定制管家，服务高中生升学规划、志愿填报，为加盟商提供系统支持、师资培训支持、课程支持">
+    <title>辰才官网，中学生生涯规划一站式私人定制管家，新高考背景下的升学规划</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/yishuguihua.css">
+    <link rel="stylesheet" href="css/reset.css">
+</head>
+<body>
+    <div class="publicHead"></div>
+    <div class="banner">
+        <img src="" alt="">
+    </div>
+    <div class="part1 part">
+        <div class="inner">
+            <h5 class="header"><p>艺术志愿填报六步法</p></h5>
+            <ul class="lis">
+                <li>
+                    <p class="title">信息收集，建立档案</p>
+                    <p class="detail">收集考生基本信息、<br/>院校意向、区域意向、<br/>湖南省统考成绩等信息，<br/>建立学生档案。</p>
+                </li>
+                <li>
+                    <p class="title">信息收集，建立档案</p>
+                    <p class="detail">分析考生专业成绩<br/>与近几次模拟考试<br/>成绩，根据成绩特点，<br/>寻找机会点。</p>
+                </li>
+                <li>
+                    <p class="title">预案分析，锁定院校范围</p>
+                    <p class="detail">数据分析，院校筛选，<br/>锁定院校范围</p>
+                </li>
+                <li>
+                    <p class="title">知分填报，制定方案</p>
+                    <p class="detail"> 高考出分后，根据<br/>学生成绩，结合学生、<br/>家长的意愿进行<br/>知分填报，制定方案。</p>
+                </li>
+                <li>
+                    <p class="title">方案审核，规避风险</p>
+                    <p class="detail">专家审核，规避风险</p>
+                </li>
+                <li>
+                    <p class="title">录取跟踪</p>
+                    <p class="detail">录取跟踪</p>
+                </li>
+            </ul>
+            <ul class="circle">
+                <li><p>01</p></li>
+                <li><p>02</p></li>
+                <li><p>03</p></li>
+                <li><p>04</p></li>
+                <li><p>05</p></li>
+                <li><p>06</p></li>
+                <div class="line"></div>
+            </ul>
+        </div>
+    </div>
+    <div class="part2 part">
+        <div class="inner">
+            <h5 class="header"><p>我们的优势</p></h5>
+            <ul class="lis1 lis">
+                <li>
+                    <img src="imgs/yishuguihua/part2_1.png" alt="">
+                    <p class="title title1">生涯测评</p>
+                    <p class="detail">从人格特性、学习潜能、<br/>兴趣倾向、学习风格、<br/>心理健康等方面进行测评，<br/>让学生深度了解自己。</p>
+                </li>
+                <li>
+                    <img src="imgs/yishuguihua/part2_2.png" alt="">
+                    <p class="title title2">专业、院校选择与定位</p>
+                    <p class="detail">外部探索，多方位<br/>评价院校与专业</p>
+                </li>
+                <li>
+                    <img src="imgs/yishuguihua/part2_3.png" alt="">
+                    <p class="title title3">成绩评估</p>
+                    <p class="detail">成绩分析，寻找机会点</p>
+                </li>
+                <li>
+                    <img src="imgs/yishuguihua/part2_4.png" alt="">
+                    <p class="title title4">志愿填报预案</p>
+                    <p class="detail">数据分析，<br/>院校筛选，<br/>锁定院校范围</p>
+                </li>
+            </ul>
+            <ul class="lis2 lis">
+                <li>
+                    <img src="imgs/yishuguihua/part2_5.png" alt="">
+                    <p class="title title5">志愿填报方案</p>
+                    <p class="detail">知分填报</p>
+                </li>
+                <li>
+                    <img src="imgs/yishuguihua/part2_6.png" alt="">
+                    <p class="title title6">方案审核</p>
+                    <p class="detail">规避风险</p>
+                </li>
+                <li>
+                    <img src="imgs/yishuguihua/part2_7.png" alt="">
+                    <p class="title title7">跟踪录取</p>
+                    <p class="detail"></p>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="part3 part">
+        <div class="inner">
+            <h5 class="header"><p>服务体系</p></h5>
+            <table>
+                <thead>
+                    <tr><td colspan="6">第一部分：目标规划服务</td></tr>
+                </thead>
+                <tbody id="table">
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="publicFoot"></div>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/public.js"></script>
+<script>
+    var arr = [
+        { num: '1',name: '彭*',sex:'男',subject: '音乐理', grade: '430', luqu: '常州大学' },
+        { num: '2',name: '肖*',sex:'女',subject: '音乐文', grade: '352', luqu: '江西财经大学' },
+        { num: '3',name: '徐**',sex:'男',subject: '音乐文', grade: '394', luqu: '南昌大学' },
+        { num: '4',name: '周*',sex:'女',subject: '音乐文', grade: '370', luqu: '长江大学' },
+        { num: '5',name: '宋*',sex:'女',subject: '音乐文', grade: '352', luqu: '西南科技大学' },
+        { num: '6',name: '陈**',sex:'女',subject: '舞蹈文', grade: '439+5', luqu: '华东交通大学' },
+        { num: '7',name: '罗*',sex:'女',subject: '编导文', grade: '536', luqu: '海南师范大学（编导）' },
+        { num: '8',name: '喻**',sex:'女',subject: '编导文', grade: '563', luqu: '西南大学（编导）' },
+        { num: '9',name: '何*',sex:'男',subject: '音乐文', grade: '357', luqu: '齐齐哈尔大学' },
+        { num: '10',name: '李*',sex:'女',subject: '舞蹈文', grade: '344', luqu: '宜春学院' },
+        { num: '11',name: '邹*',sex:'男',subject: '书法文', grade: '434', luqu: '海南师范大学' },
+        { num: '12',name: '夏*',sex:'男',subject: '美术文', grade: '525', luqu: '江汉大学' },
+        { num: '13',name: '欧阳*',sex:'女',subject: '舞蹈文', grade: '394', luqu: '贵州民族大学' },
+        { num: '14',name: '戴*',sex:'女',subject: '编导理', grade: '515', luqu: '沈阳大学' },
+        { num: '15',name: '陈*',sex:'女',subject: '播音文', grade: '425', luqu: '重庆大学' },
+        { num: '16',name: '雷*',sex:'男',subject: '美术文', grade: '520', luqu: '华中科技大学' },
+        { num: '17',name: '胡*',sex:'女',subject: '音乐文', grade: '481', luqu: '星海音乐学院' },
+        { num: '18',name: '张*',sex:'男',subject: '美术文', grade: '525', luqu: '广州美术学院' },
+        { num: '19',name: '唐*',sex:'女',subject: '美术文', grade: '428', luqu: '青岛大学' },
+    ];
+
+    $(function() {
+        var html = '<tr><th width="114px">序号</th><th width="114px">姓名</th><th width="114px">性别</th><th width="120px">科别</th><th width="230px">高考文化成绩</th><th>录取情况</th></tr>';
+        var el = '';
+        $.each(arr,function(index,value){
+            el += '<tr>' + 
+                '<td>' + value.num + '</td>'+
+                '<td>' + value.name + '</td>'+
+                '<td>' + value.sex + '</td>'+
+                '<td>' + value.subject + '</td>'+
+                '<td>' + value.grade + '</td>'+
+                '<td>' + value.luqu + '</td>'+
+            '</tr>'
+        });
+        $('#table').html(html+ el);
+        console.log(html+ el)
+    })
+</script>
+</html>
